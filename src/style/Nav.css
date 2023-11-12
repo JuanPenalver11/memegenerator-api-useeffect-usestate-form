@@ -1,0 +1,23 @@
+nav{
+   height: 50px;
+    background: linear-gradient(to left, rgb(253, 56, 171), rgb(246, 179, 54));
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    box-shadow: 0 0 5px 0 black;
+
+}
+
+.icon-website{
+    margin-left:20px
+}
+
+.title-website p{
+    font-size: 40px;
+    font-family: Anton, Arial, Helvetica, sans-serif;
+    color: white;
+    -webkit-text-stroke: 1px black;
+    margin-right: 20px;
+
+}
